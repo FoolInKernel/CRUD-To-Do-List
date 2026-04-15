@@ -1,3 +1,1 @@
-Ini adalah project CRUD pertama saya 
-
-Arch
+Ini adalah project CRUD pertama saya
